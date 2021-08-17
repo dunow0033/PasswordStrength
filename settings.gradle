@@ -1,0 +1,2 @@
+rootProject.name = "PasswordStrengthVMandLiveData_August9"
+include ':app'

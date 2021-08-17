@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasswordStrengthVMandLiveData_August9</string>
+    <string name="lowercase_letters">Lowercase Letters</string>
+    <string name="uppercase_letters">Uppercase Letters</string>
+    <string name="digits">Digits</string>
+    <string name="length_greater_than_8">Length greater than 8</string>
+    <string name="submit">Submit</string>
+</resources>
